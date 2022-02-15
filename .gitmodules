@@ -1,0 +1,6 @@
+[submodule "src/libs/3rdparty/fmt"]
+	path = src/libs/3rdparty/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "src/libs/3rdparty/spdlog"]
+	path = src/libs/3rdparty/spdlog
+	url = https://github.com/gabime/spdlog.git
